@@ -32,7 +32,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>emoji intrepetor</h1>
+      <h1>emoji search</h1>
       <input onChange={onChangeHandler}></input>
       <h2>{meaning}</h2>
       <h3>emojis we know</h3>
